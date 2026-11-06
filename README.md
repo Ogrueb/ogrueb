@@ -6,11 +6,11 @@ Two years on Azure data and application systems at Chevron, 2023 to 2025.
 
 Everything below was built solo with LLM coding tools. My work is the planning, orchestration, and validation: setting the objectives and parameters, directing the model's workflows in parallel, and testing instead of trusting the output.
 
-## Timeline
+## Project timelines
 
 ![Milestone timeline for four projects, September 28 to November 3, 2026: start, first result, verified and public dates, with bars for elapsed time and ticks for days with recorded work](timeline/project-timeline.svg)
 
-The four projects overlapped. Bars span the time between dated milestones, not hours worked; the ticks mark the days with recorded work.
+Bars span the time between dated milestones, not hours worked; the ticks mark the days with recorded work.
 
 ## Projects
 
