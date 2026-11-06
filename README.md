@@ -1,6 +1,8 @@
 # Owen Gruebmeyer-Mulqueen
 
-Software engineer, Boulder, CO. B.S. Computer Science (Regis University). Two years on Azure data and application systems at Chevron, 2023 to 2025.
+Software engineer
+B.S. Computer Science (Regis University).
+Two years on Azure data and application systems at Chevron, 2023 to 2025.
 
 Everything below was built solo with LLM coding tools. My work is the planning, orchestration, and validation: setting the objectives and parameters, directing the model's workflows in parallel, and testing instead of trusting the output.
 
