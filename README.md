@@ -8,7 +8,7 @@ Everything below was built solo with LLM coding tools. My work is the planning, 
 
 ## Project timelines
 
-![Milestone timeline for four projects, September 28 to November 3, 2026: start, first result, verified and public dates, with bars for elapsed time and ticks for days with recorded work](timeline/project-timeline.svg)
+![Milestone timeline for four projects, September 28 to November 10, 2026: start, first result, verified and public dates, with bars for elapsed time and ticks for days with recorded work](timeline/project-timeline.svg)
 
 Bars span the time between dated milestones, not hours worked; the ticks mark the days with recorded work.
 
