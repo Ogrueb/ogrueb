@@ -1,176 +1,169 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 562" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13"><title>Milestones and releases for 5 projects, Sep 28 to Nov 17, 2026</title><rect width="1000" height="562" fill="#fff"/>
-<text x="20" y="28" font-size="16" font-weight="600" fill="#111">Five projects, overlapping in time</text>
-<text x="20" y="48" fill="#555">Bars span the time between dated marks. Small ticks under each bar are the days with recorded work; purple dots are later releases.</text>
-<line x1="190.0" x2="190.0" y1="76" y2="492" stroke="#e5e7eb"/><text x="190.0" y="70" text-anchor="middle" fill="#555" font-size="11">Sep 28</text>
-<line x1="294.3137254901961" x2="294.3137254901961" y1="76" y2="492" stroke="#e5e7eb"/><text x="294.3137254901961" y="70" text-anchor="middle" fill="#555" font-size="11">Oct 5</text>
-<line x1="398.62745098039215" x2="398.62745098039215" y1="76" y2="492" stroke="#e5e7eb"/><text x="398.62745098039215" y="70" text-anchor="middle" fill="#555" font-size="11">Oct 12</text>
-<line x1="502.94117647058823" x2="502.94117647058823" y1="76" y2="492" stroke="#e5e7eb"/><text x="502.94117647058823" y="70" text-anchor="middle" fill="#555" font-size="11">Oct 19</text>
-<line x1="607.2549019607843" x2="607.2549019607843" y1="76" y2="492" stroke="#e5e7eb"/><text x="607.2549019607843" y="70" text-anchor="middle" fill="#555" font-size="11">Oct 26</text>
-<line x1="711.5686274509804" x2="711.5686274509804" y1="76" y2="492" stroke="#e5e7eb"/><text x="711.5686274509804" y="70" text-anchor="middle" fill="#555" font-size="11">Nov 2</text>
-<line x1="815.8823529411765" x2="815.8823529411765" y1="76" y2="492" stroke="#e5e7eb"/><text x="815.8823529411765" y="70" text-anchor="middle" fill="#555" font-size="11">Nov 9</text>
-<line x1="920.1960784313726" x2="920.1960784313726" y1="76" y2="492" stroke="#e5e7eb"/><text x="920.1960784313726" y="70" text-anchor="middle" fill="#555" font-size="11">Nov 16</text>
-<text x="178" y="110" text-anchor="end" fill="#111">nonstandard-notes</text><line x1="190" x2="950" y1="106" y2="106" stroke="#e5e7eb"/>
-<rect x="204.90196078431373" y="99" width="14.90196078431373" height="14" rx="3" fill="#fcd34d"/>
-<rect x="219.80392156862746" y="99" width="134.11764705882354" height="14" rx="3" fill="#5eead4"/>
-<rect x="353.921568627451" y="99" width="14.901960784313701" height="14" rx="3" fill="#93c5fd"/>
-<rect x="203.90196078431373" y="116" width="2" height="7" fill="#374151"/>
-<rect x="218.80392156862746" y="116" width="2" height="7" fill="#374151"/>
-<rect x="233.70588235294116" y="116" width="2" height="7" fill="#374151"/>
-<rect x="248.60784313725492" y="116" width="2" height="7" fill="#374151"/>
-<rect x="293.3137254901961" y="116" width="2" height="7" fill="#374151"/>
-<rect x="308.21568627450984" y="116" width="2" height="7" fill="#374151"/>
-<rect x="323.11764705882354" y="116" width="2" height="7" fill="#374151"/>
-<rect x="352.921568627451" y="116" width="2" height="7" fill="#374151"/>
-<rect x="367.8235294117647" y="116" width="2" height="7" fill="#374151"/>
-<rect x="397.62745098039215" y="116" width="2" height="7" fill="#374151"/>
-<rect x="412.52941176470586" y="116" width="2" height="7" fill="#374151"/>
-<circle cx="204.90196078431373" cy="106" r="6" fill="#6b7280"/>
-<text x="204.90196078431373" y="137" text-anchor="middle" font-size="11" fill="#333">Start Sep 29</text>
-<path d="M219.80392156862746 98L226.80392156862746 112L212.80392156862746 112Z" fill="#b45309"/>
-<text x="219.80392156862746" y="93" text-anchor="middle" font-size="11" fill="#333">First result Sep 30</text>
-<path d="M353.921568627451 98L361.921568627451 106L353.921568627451 114L345.921568627451 106Z" fill="#0f766e"/>
-<text x="353.921568627451" y="137" text-anchor="middle" font-size="11" fill="#333">Verified Oct 9</text>
-<rect x="362.8235294117647" y="100" width="12" height="12" fill="#1d4ed8"/>
-<text x="368.8235294117647" y="93" text-anchor="middle" font-size="11" fill="#333">Public Oct 10</text>
-<text x="178" y="196" text-anchor="end" fill="#111">FTR-header-animations</text><line x1="190" x2="950" y1="192" y2="192" stroke="#e5e7eb"/>
-<rect x="204.90196078431373" y="185" width="14.90196078431373" height="14" rx="3" fill="#fcd34d"/>
-<rect x="219.80392156862746" y="185" width="89.41176470588238" height="14" rx="3" fill="#5eead4"/>
-<rect x="309.21568627450984" y="185" width="268.2352941176471" height="14" rx="3" fill="#93c5fd"/>
-<rect x="203.90196078431373" y="202" width="2" height="7" fill="#374151"/>
-<rect x="218.80392156862746" y="202" width="2" height="7" fill="#374151"/>
-<rect x="293.3137254901961" y="202" width="2" height="7" fill="#374151"/>
-<rect x="308.21568627450984" y="202" width="2" height="7" fill="#374151"/>
-<rect x="338.01960784313724" y="202" width="2" height="7" fill="#374151"/>
-<rect x="576.4509803921569" y="202" width="2" height="7" fill="#374151"/>
-<circle cx="204.90196078431373" cy="192" r="6" fill="#6b7280"/>
-<text x="204.90196078431373" y="223" text-anchor="middle" font-size="11" fill="#333">Start Sep 29</text>
-<path d="M219.80392156862746 184L226.80392156862746 198L212.80392156862746 198Z" fill="#b45309"/>
-<text x="219.80392156862746" y="179" text-anchor="middle" font-size="11" fill="#333">First result Sep 30</text>
-<path d="M309.21568627450984 184L317.21568627450984 192L309.21568627450984 200L301.21568627450984 192Z" fill="#0f766e"/>
-<text x="309.21568627450984" y="223" text-anchor="middle" font-size="11" fill="#333">Verified Oct 6</text>
-<rect x="571.4509803921569" y="186" width="12" height="12" fill="#1d4ed8"/>
-<text x="577.4509803921569" y="179" text-anchor="middle" font-size="11" fill="#333">Public Oct 24</text>
-<text x="178" y="282" text-anchor="end" fill="#111">Lightscreen-Rd</text><line x1="190" x2="950" y1="278" y2="278" stroke="#e5e7eb"/>
-<rect x="249.60784313725492" y="271" width="163.92156862745094" height="14" rx="3" fill="#fcd34d"/>
-<rect x="413.52941176470586" y="271" width="238.43137254901967" height="14" rx="3" fill="#5eead4"/>
-<rect x="651.9607843137255" y="276" width="163.92156862745094" height="4" rx="2" fill="#ddd6fe"/>
-<rect x="248.60784313725492" y="288" width="2" height="7" fill="#374151"/>
-<rect x="412.52941176470586" y="288" width="2" height="7" fill="#374151"/>
-<rect x="427.4313725490196" y="288" width="2" height="7" fill="#374151"/>
-<rect x="442.3333333333333" y="288" width="2" height="7" fill="#374151"/>
-<rect x="516.843137254902" y="288" width="2" height="7" fill="#374151"/>
-<rect x="531.7450980392157" y="288" width="2" height="7" fill="#374151"/>
-<rect x="546.6470588235294" y="288" width="2" height="7" fill="#374151"/>
-<rect x="561.5490196078431" y="288" width="2" height="7" fill="#374151"/>
-<rect x="621.156862745098" y="288" width="2" height="7" fill="#374151"/>
-<rect x="650.9607843137255" y="288" width="2" height="7" fill="#374151"/>
-<rect x="785.0784313725491" y="288" width="2" height="7" fill="#374151"/>
-<rect x="799.9803921568628" y="288" width="2" height="7" fill="#374151"/>
-<rect x="814.8823529411765" y="288" width="2" height="7" fill="#374151"/>
-<circle cx="249.60784313725492" cy="278" r="6" fill="#6b7280"/>
-<text x="249.60784313725492" y="309" text-anchor="middle" font-size="11" fill="#333">Start Oct 2</text>
-<path d="M413.52941176470586 270L420.52941176470586 284L406.52941176470586 284Z" fill="#b45309"/>
-<text x="413.52941176470586" y="265" text-anchor="middle" font-size="11" fill="#333">First result Oct 13</text>
-<path d="M651.9607843137255 270L659.9607843137255 278L651.9607843137255 286L643.9607843137255 278Z" fill="#0f766e"/>
-<rect x="645.9607843137255" y="272" width="12" height="12" fill="#1d4ed8"/>
-<text x="651.9607843137255" y="309" text-anchor="middle" font-size="11" fill="#333">Verified + Public Oct 29</text>
-<circle cx="800.9803921568628" cy="278" r="4.5" fill="#7c3aed" stroke="#fff" stroke-width="1.5"/>
-<text x="800.9803921568628" y="251" text-anchor="middle" font-size="10" fill="#7c3aed">v3.0.1</text>
-<circle cx="815.8823529411765" cy="278" r="4.5" fill="#7c3aed" stroke="#fff" stroke-width="1.5"/>
-<text x="815.8823529411765" y="239" text-anchor="middle" font-size="10" fill="#7c3aed">v3.0.2</text>
-<text x="178" y="368" text-anchor="end" fill="#111">openrct2-screensaver</text><line x1="190" x2="950" y1="364" y2="364" stroke="#e5e7eb"/>
-<rect x="592.3529411764706" y="357" width="134.11764705882354" height="14" rx="3" fill="#5eead4"/>
-<rect x="726.4705882352941" y="362" width="193.72549019607845" height="4" rx="2" fill="#ddd6fe"/>
-<rect x="591.3529411764706" y="374" width="2" height="7" fill="#374151"/>
-<rect x="606.2549019607843" y="374" width="2" height="7" fill="#374151"/>
-<rect x="621.156862745098" y="374" width="2" height="7" fill="#374151"/>
-<rect x="636.0588235294117" y="374" width="2" height="7" fill="#374151"/>
-<rect x="650.9607843137255" y="374" width="2" height="7" fill="#374151"/>
-<rect x="665.8627450980392" y="374" width="2" height="7" fill="#374151"/>
-<rect x="680.7647058823529" y="374" width="2" height="7" fill="#374151"/>
-<rect x="710.5686274509804" y="374" width="2" height="7" fill="#374151"/>
-<rect x="725.4705882352941" y="374" width="2" height="7" fill="#374151"/>
-<rect x="740.3725490196078" y="374" width="2" height="7" fill="#374151"/>
-<rect x="755.2745098039215" y="374" width="2" height="7" fill="#374151"/>
-<rect x="770.1764705882352" y="374" width="2" height="7" fill="#374151"/>
-<rect x="814.8823529411765" y="374" width="2" height="7" fill="#374151"/>
-<rect x="829.7843137254902" y="374" width="2" height="7" fill="#374151"/>
-<rect x="844.686274509804" y="374" width="2" height="7" fill="#374151"/>
-<rect x="859.5882352941177" y="374" width="2" height="7" fill="#374151"/>
-<rect x="889.3921568627451" y="374" width="2" height="7" fill="#374151"/>
-<rect x="904.2941176470588" y="374" width="2" height="7" fill="#374151"/>
-<rect x="919.1960784313726" y="374" width="2" height="7" fill="#374151"/>
-<circle cx="592.3529411764706" cy="364" r="6" fill="#6b7280"/>
-<path d="M592.3529411764706 356L599.3529411764706 370L585.3529411764706 370Z" fill="#b45309"/>
-<text x="592.3529411764706" y="395" text-anchor="middle" font-size="11" fill="#333">Start + First result Oct 25</text>
-<path d="M726.4705882352941 356L734.4705882352941 364L726.4705882352941 372L718.4705882352941 364Z" fill="#0f766e"/>
-<rect x="720.4705882352941" y="358" width="12" height="12" fill="#1d4ed8"/>
-<text x="726.4705882352941" y="351" text-anchor="middle" font-size="11" fill="#333">Verified + Public Nov 3</text>
-<circle cx="756.2745098039215" cy="364" r="4.5" fill="#7c3aed" stroke="#fff" stroke-width="1.5"/>
-<text x="756.2745098039215" y="337" text-anchor="middle" font-size="10" fill="#7c3aed">v0.2.0</text>
-<circle cx="771.1764705882352" cy="364" r="4.5" fill="#7c3aed" stroke="#fff" stroke-width="1.5"/>
-<text x="771.1764705882352" y="325" text-anchor="middle" font-size="10" fill="#7c3aed">v0.2.1</text>
-<circle cx="830.7843137254902" cy="364" r="4.5" fill="#7c3aed" stroke="#fff" stroke-width="1.5"/>
-<text x="830.7843137254902" y="337" text-anchor="middle" font-size="10" fill="#7c3aed">v0.3.0</text>
-<circle cx="920.1960784313726" cy="364" r="4.5" fill="#7c3aed" stroke="#fff" stroke-width="1.5"/>
-<text x="920.1960784313726" y="325" text-anchor="middle" font-size="10" fill="#7c3aed">v0.4.0</text>
-<text x="178" y="454" text-anchor="end" fill="#111">Stelli (private beta)</text><line x1="190" x2="950" y1="450" y2="450" stroke="#e5e7eb"/>
-<rect x="204.90196078431373" y="443" width="596.0784313725491" height="14" rx="3" fill="#d1d5db"/>
-<rect x="800.9803921568628" y="448" width="119.21568627450984" height="4" rx="2" fill="#ddd6fe"/>
-<rect x="203.90196078431373" y="460" width="2" height="7" fill="#374151"/>
-<rect x="218.80392156862746" y="460" width="2" height="7" fill="#374151"/>
-<rect x="233.70588235294116" y="460" width="2" height="7" fill="#374151"/>
-<rect x="248.60784313725492" y="460" width="2" height="7" fill="#374151"/>
-<rect x="293.3137254901961" y="460" width="2" height="7" fill="#374151"/>
-<rect x="308.21568627450984" y="460" width="2" height="7" fill="#374151"/>
-<rect x="323.11764705882354" y="460" width="2" height="7" fill="#374151"/>
-<rect x="338.01960784313724" y="460" width="2" height="7" fill="#374151"/>
-<rect x="352.921568627451" y="460" width="2" height="7" fill="#374151"/>
-<rect x="397.62745098039215" y="460" width="2" height="7" fill="#374151"/>
-<rect x="412.52941176470586" y="460" width="2" height="7" fill="#374151"/>
-<rect x="427.4313725490196" y="460" width="2" height="7" fill="#374151"/>
-<rect x="516.843137254902" y="460" width="2" height="7" fill="#374151"/>
-<rect x="561.5490196078431" y="460" width="2" height="7" fill="#374151"/>
-<rect x="606.2549019607843" y="460" width="2" height="7" fill="#374151"/>
-<rect x="636.0588235294117" y="460" width="2" height="7" fill="#374151"/>
-<rect x="725.4705882352941" y="460" width="2" height="7" fill="#374151"/>
-<rect x="740.3725490196078" y="460" width="2" height="7" fill="#374151"/>
-<rect x="755.2745098039215" y="460" width="2" height="7" fill="#374151"/>
-<rect x="770.1764705882352" y="460" width="2" height="7" fill="#374151"/>
-<rect x="785.0784313725491" y="460" width="2" height="7" fill="#374151"/>
-<rect x="799.9803921568628" y="460" width="2" height="7" fill="#374151"/>
-<rect x="814.8823529411765" y="460" width="2" height="7" fill="#374151"/>
-<rect x="829.7843137254902" y="460" width="2" height="7" fill="#374151"/>
-<rect x="844.686274509804" y="460" width="2" height="7" fill="#374151"/>
-<rect x="859.5882352941177" y="460" width="2" height="7" fill="#374151"/>
-<rect x="874.4901960784314" y="460" width="2" height="7" fill="#374151"/>
-<rect x="889.3921568627451" y="460" width="2" height="7" fill="#374151"/>
-<rect x="904.2941176470588" y="460" width="2" height="7" fill="#374151"/>
-<rect x="919.1960784313726" y="460" width="2" height="7" fill="#374151"/>
-<rect x="934.0980392156863" y="460" width="2" height="7" fill="#374151"/>
-<circle cx="204.90196078431373" cy="450" r="6" fill="#6b7280"/>
-<path d="M204.90196078431373 442L211.90196078431373 456L197.90196078431373 456Z" fill="#b45309"/>
-<text x="204.90196078431373" y="481" text-anchor="middle" font-size="11" fill="#333">Start + First result Sep 29</text>
-<rect x="795.9803921568628" y="445" width="10" height="10" fill="#fff" stroke="#1d4ed8" stroke-width="2.5"/>
-<text x="800.9803921568628" y="437" text-anchor="middle" font-size="11" fill="#333">First beta Nov 8</text>
-<circle cx="815.8823529411765" cy="450" r="4.5" fill="#7c3aed" stroke="#fff" stroke-width="1.5"/>
-<circle cx="830.7843137254902" cy="450" r="4.5" fill="#7c3aed" stroke="#fff" stroke-width="1.5"/>
-<circle cx="845.686274509804" cy="450" r="4.5" fill="#7c3aed" stroke="#fff" stroke-width="1.5"/>
-<circle cx="860.5882352941177" cy="450" r="4.5" fill="#7c3aed" stroke="#fff" stroke-width="1.5"/>
-<circle cx="875.4901960784314" cy="450" r="4.5" fill="#7c3aed" stroke="#fff" stroke-width="1.5"/>
-<circle cx="890.3921568627451" cy="450" r="4.5" fill="#7c3aed" stroke="#fff" stroke-width="1.5"/>
-<circle cx="905.2941176470588" cy="450" r="4.5" fill="#7c3aed" stroke="#fff" stroke-width="1.5"/>
-<circle cx="920.1960784313726" cy="450" r="4.5" fill="#7c3aed" stroke="#fff" stroke-width="1.5"/>
-<text x="928.1960784313726" y="481" text-anchor="end" font-size="11" fill="#7c3aed">New beta builds on 8 days, latest 16e Nov 16</text>
-<circle cx="190" cy="528" r="6" fill="#6b7280"/><text x="204" y="532" fill="#333" font-size="12">Start</text>
-<path d="M325 520L332 534L318 534Z" fill="#b45309"/><text x="339" y="532" fill="#333" font-size="12">First result</text>
-<path d="M460 520L468 528L460 536L452 528Z" fill="#0f766e"/><text x="474" y="532" fill="#333" font-size="12">Verified</text>
-<rect x="589" y="522" width="12" height="12" fill="#1d4ed8"/><text x="609" y="532" fill="#333" font-size="12">Public</text>
-<rect x="725" y="523" width="10" height="10" fill="#fff" stroke="#1d4ed8" stroke-width="2.5"/><text x="744" y="532" fill="#333" font-size="12">First beta (private)</text>
-<circle cx="865" cy="528" r="4.5" fill="#7c3aed" stroke="#fff" stroke-width="1.5"/><text x="879" y="532" fill="#333" font-size="12">Later release</text>
-<rect x="190" y="542" width="22" height="10" rx="3" fill="#fcd34d"/><text x="218" y="551" font-size="12" fill="#333">Start to first result</text>
-<rect x="340" y="542" width="22" height="10" rx="3" fill="#5eead4"/><text x="368" y="551" font-size="12" fill="#333">First result to verified</text>
-<rect x="510" y="542" width="22" height="10" rx="3" fill="#93c5fd"/><text x="538" y="551" font-size="12" fill="#333">Verified to public</text>
-<rect x="660" y="542" width="22" height="10" rx="3" fill="#d1d5db"/><text x="688" y="551" font-size="12" fill="#333">To first beta</text>
-<rect x="780" y="542" width="22" height="10" rx="3" fill="#ddd6fe"/><text x="808" y="551" font-size="12" fill="#333">Release span</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 568" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13"><title>Milestones and releases for 5 projects, Sep 28 to Nov 17, 2026</title><rect width="1000" height="568" fill="#fff"/>
+<text x="20" y="28" font-size="16" font-weight="600" fill="#111">Projects timeline</text>
+<line x1="190.0" x2="190.0" y1="56" y2="472" stroke="#e5e7eb"/><text x="190.0" y="50" text-anchor="middle" fill="#555" font-size="11">Sep 28</text>
+<line x1="294.3137254901961" x2="294.3137254901961" y1="56" y2="472" stroke="#e5e7eb"/><text x="294.3137254901961" y="50" text-anchor="middle" fill="#555" font-size="11">Oct 5</text>
+<line x1="398.62745098039215" x2="398.62745098039215" y1="56" y2="472" stroke="#e5e7eb"/><text x="398.62745098039215" y="50" text-anchor="middle" fill="#555" font-size="11">Oct 12</text>
+<line x1="502.94117647058823" x2="502.94117647058823" y1="56" y2="472" stroke="#e5e7eb"/><text x="502.94117647058823" y="50" text-anchor="middle" fill="#555" font-size="11">Oct 19</text>
+<line x1="607.2549019607843" x2="607.2549019607843" y1="56" y2="472" stroke="#e5e7eb"/><text x="607.2549019607843" y="50" text-anchor="middle" fill="#555" font-size="11">Oct 26</text>
+<line x1="711.5686274509804" x2="711.5686274509804" y1="56" y2="472" stroke="#e5e7eb"/><text x="711.5686274509804" y="50" text-anchor="middle" fill="#555" font-size="11">Nov 2</text>
+<line x1="815.8823529411765" x2="815.8823529411765" y1="56" y2="472" stroke="#e5e7eb"/><text x="815.8823529411765" y="50" text-anchor="middle" fill="#555" font-size="11">Nov 9</text>
+<line x1="920.1960784313726" x2="920.1960784313726" y1="56" y2="472" stroke="#e5e7eb"/><text x="920.1960784313726" y="50" text-anchor="middle" fill="#555" font-size="11">Nov 16</text>
+<text x="178" y="90" text-anchor="end" fill="#111">nonstandard-notes</text><line x1="190" x2="950" y1="86" y2="86" stroke="#e5e7eb"/>
+<rect x="204.90196078431373" y="79" width="14.90196078431373" height="14" rx="3" fill="#fcd34d"/>
+<rect x="219.80392156862746" y="79" width="134.11764705882354" height="14" rx="3" fill="#5eead4"/>
+<rect x="353.921568627451" y="79" width="14.901960784313701" height="14" rx="3" fill="#93c5fd"/>
+<rect x="203.90196078431373" y="96" width="2" height="7" fill="#374151"/>
+<rect x="218.80392156862746" y="96" width="2" height="7" fill="#374151"/>
+<rect x="233.70588235294116" y="96" width="2" height="7" fill="#374151"/>
+<rect x="248.60784313725492" y="96" width="2" height="7" fill="#374151"/>
+<rect x="293.3137254901961" y="96" width="2" height="7" fill="#374151"/>
+<rect x="308.21568627450984" y="96" width="2" height="7" fill="#374151"/>
+<rect x="323.11764705882354" y="96" width="2" height="7" fill="#374151"/>
+<rect x="352.921568627451" y="96" width="2" height="7" fill="#374151"/>
+<rect x="367.8235294117647" y="96" width="2" height="7" fill="#374151"/>
+<rect x="397.62745098039215" y="96" width="2" height="7" fill="#374151"/>
+<rect x="412.52941176470586" y="96" width="2" height="7" fill="#374151"/>
+<circle cx="204.90196078431373" cy="86" r="6" fill="#6b7280"/>
+<text x="204.90196078431373" y="117" text-anchor="middle" font-size="11" fill="#333">Start Sep 29</text>
+<path d="M219.80392156862746 78L226.80392156862746 92L212.80392156862746 92Z" fill="#b45309"/>
+<text x="219.80392156862746" y="73" text-anchor="middle" font-size="11" fill="#333">First result Sep 30</text>
+<path d="M353.921568627451 78L361.921568627451 86L353.921568627451 94L345.921568627451 86Z" fill="#0f766e"/>
+<text x="353.921568627451" y="117" text-anchor="middle" font-size="11" fill="#333">Verified Oct 9</text>
+<rect x="362.8235294117647" y="80" width="12" height="12" fill="#1d4ed8"/>
+<text x="368.8235294117647" y="73" text-anchor="middle" font-size="11" fill="#333">Public Oct 10</text>
+<text x="178" y="176" text-anchor="end" fill="#111">FTR-header-animations</text><line x1="190" x2="950" y1="172" y2="172" stroke="#e5e7eb"/>
+<rect x="204.90196078431373" y="165" width="14.90196078431373" height="14" rx="3" fill="#fcd34d"/>
+<rect x="219.80392156862746" y="165" width="89.41176470588238" height="14" rx="3" fill="#5eead4"/>
+<rect x="309.21568627450984" y="165" width="268.2352941176471" height="14" rx="3" fill="#93c5fd"/>
+<rect x="203.90196078431373" y="182" width="2" height="7" fill="#374151"/>
+<rect x="218.80392156862746" y="182" width="2" height="7" fill="#374151"/>
+<rect x="293.3137254901961" y="182" width="2" height="7" fill="#374151"/>
+<rect x="308.21568627450984" y="182" width="2" height="7" fill="#374151"/>
+<rect x="338.01960784313724" y="182" width="2" height="7" fill="#374151"/>
+<rect x="576.4509803921569" y="182" width="2" height="7" fill="#374151"/>
+<circle cx="204.90196078431373" cy="172" r="6" fill="#6b7280"/>
+<text x="204.90196078431373" y="203" text-anchor="middle" font-size="11" fill="#333">Start Sep 29</text>
+<path d="M219.80392156862746 164L226.80392156862746 178L212.80392156862746 178Z" fill="#b45309"/>
+<text x="219.80392156862746" y="159" text-anchor="middle" font-size="11" fill="#333">First result Sep 30</text>
+<path d="M309.21568627450984 164L317.21568627450984 172L309.21568627450984 180L301.21568627450984 172Z" fill="#0f766e"/>
+<text x="309.21568627450984" y="203" text-anchor="middle" font-size="11" fill="#333">Verified Oct 6</text>
+<rect x="571.4509803921569" y="166" width="12" height="12" fill="#1d4ed8"/>
+<text x="577.4509803921569" y="159" text-anchor="middle" font-size="11" fill="#333">Public Oct 24</text>
+<text x="178" y="262" text-anchor="end" fill="#111">Lightscreen-Rd</text><line x1="190" x2="950" y1="258" y2="258" stroke="#e5e7eb"/>
+<rect x="249.60784313725492" y="251" width="163.92156862745094" height="14" rx="3" fill="#fcd34d"/>
+<rect x="413.52941176470586" y="251" width="238.43137254901967" height="14" rx="3" fill="#5eead4"/>
+<rect x="651.9607843137255" y="256" width="163.92156862745094" height="4" rx="2" fill="#ddd6fe"/>
+<rect x="248.60784313725492" y="268" width="2" height="7" fill="#374151"/>
+<rect x="412.52941176470586" y="268" width="2" height="7" fill="#374151"/>
+<rect x="427.4313725490196" y="268" width="2" height="7" fill="#374151"/>
+<rect x="442.3333333333333" y="268" width="2" height="7" fill="#374151"/>
+<rect x="516.843137254902" y="268" width="2" height="7" fill="#374151"/>
+<rect x="531.7450980392157" y="268" width="2" height="7" fill="#374151"/>
+<rect x="546.6470588235294" y="268" width="2" height="7" fill="#374151"/>
+<rect x="561.5490196078431" y="268" width="2" height="7" fill="#374151"/>
+<rect x="621.156862745098" y="268" width="2" height="7" fill="#374151"/>
+<rect x="650.9607843137255" y="268" width="2" height="7" fill="#374151"/>
+<rect x="785.0784313725491" y="268" width="2" height="7" fill="#374151"/>
+<rect x="799.9803921568628" y="268" width="2" height="7" fill="#374151"/>
+<rect x="814.8823529411765" y="268" width="2" height="7" fill="#374151"/>
+<circle cx="249.60784313725492" cy="258" r="6" fill="#6b7280"/>
+<text x="249.60784313725492" y="289" text-anchor="middle" font-size="11" fill="#333">Start Oct 2</text>
+<path d="M413.52941176470586 250L420.52941176470586 264L406.52941176470586 264Z" fill="#b45309"/>
+<text x="413.52941176470586" y="245" text-anchor="middle" font-size="11" fill="#333">First result Oct 13</text>
+<path d="M651.9607843137255 250L659.9607843137255 258L651.9607843137255 266L643.9607843137255 258Z" fill="#0f766e"/>
+<rect x="645.9607843137255" y="252" width="12" height="12" fill="#1d4ed8"/>
+<text x="651.9607843137255" y="289" text-anchor="middle" font-size="11" fill="#333">Verified + Public Oct 29</text>
+<circle cx="800.9803921568628" cy="258" r="4.5" fill="#7c3aed" stroke="#fff" stroke-width="1.5"/>
+<text x="800.9803921568628" y="231" text-anchor="middle" font-size="10" fill="#7c3aed">v3.0.1</text>
+<circle cx="815.8823529411765" cy="258" r="4.5" fill="#7c3aed" stroke="#fff" stroke-width="1.5"/>
+<text x="815.8823529411765" y="219" text-anchor="middle" font-size="10" fill="#7c3aed">v3.0.2</text>
+<text x="178" y="348" text-anchor="end" fill="#111">openrct2-screensaver</text><line x1="190" x2="950" y1="344" y2="344" stroke="#e5e7eb"/>
+<rect x="592.3529411764706" y="337" width="134.11764705882354" height="14" rx="3" fill="#5eead4"/>
+<rect x="726.4705882352941" y="342" width="193.72549019607845" height="4" rx="2" fill="#ddd6fe"/>
+<rect x="591.3529411764706" y="354" width="2" height="7" fill="#374151"/>
+<rect x="606.2549019607843" y="354" width="2" height="7" fill="#374151"/>
+<rect x="621.156862745098" y="354" width="2" height="7" fill="#374151"/>
+<rect x="636.0588235294117" y="354" width="2" height="7" fill="#374151"/>
+<rect x="650.9607843137255" y="354" width="2" height="7" fill="#374151"/>
+<rect x="665.8627450980392" y="354" width="2" height="7" fill="#374151"/>
+<rect x="680.7647058823529" y="354" width="2" height="7" fill="#374151"/>
+<rect x="710.5686274509804" y="354" width="2" height="7" fill="#374151"/>
+<rect x="725.4705882352941" y="354" width="2" height="7" fill="#374151"/>
+<rect x="740.3725490196078" y="354" width="2" height="7" fill="#374151"/>
+<rect x="755.2745098039215" y="354" width="2" height="7" fill="#374151"/>
+<rect x="770.1764705882352" y="354" width="2" height="7" fill="#374151"/>
+<rect x="814.8823529411765" y="354" width="2" height="7" fill="#374151"/>
+<rect x="829.7843137254902" y="354" width="2" height="7" fill="#374151"/>
+<rect x="844.686274509804" y="354" width="2" height="7" fill="#374151"/>
+<rect x="859.5882352941177" y="354" width="2" height="7" fill="#374151"/>
+<rect x="889.3921568627451" y="354" width="2" height="7" fill="#374151"/>
+<rect x="904.2941176470588" y="354" width="2" height="7" fill="#374151"/>
+<rect x="919.1960784313726" y="354" width="2" height="7" fill="#374151"/>
+<circle cx="592.3529411764706" cy="344" r="6" fill="#6b7280"/>
+<path d="M592.3529411764706 336L599.3529411764706 350L585.3529411764706 350Z" fill="#b45309"/>
+<text x="592.3529411764706" y="375" text-anchor="middle" font-size="11" fill="#333">Start + First result Oct 25</text>
+<path d="M726.4705882352941 336L734.4705882352941 344L726.4705882352941 352L718.4705882352941 344Z" fill="#0f766e"/>
+<rect x="720.4705882352941" y="338" width="12" height="12" fill="#1d4ed8"/>
+<text x="726.4705882352941" y="331" text-anchor="middle" font-size="11" fill="#333">Verified + Public Nov 3</text>
+<circle cx="756.2745098039215" cy="344" r="4.5" fill="#7c3aed" stroke="#fff" stroke-width="1.5"/>
+<text x="756.2745098039215" y="317" text-anchor="middle" font-size="10" fill="#7c3aed">v0.2.0</text>
+<circle cx="771.1764705882352" cy="344" r="4.5" fill="#7c3aed" stroke="#fff" stroke-width="1.5"/>
+<text x="771.1764705882352" y="305" text-anchor="middle" font-size="10" fill="#7c3aed">v0.2.1</text>
+<circle cx="830.7843137254902" cy="344" r="4.5" fill="#7c3aed" stroke="#fff" stroke-width="1.5"/>
+<text x="830.7843137254902" y="317" text-anchor="middle" font-size="10" fill="#7c3aed">v0.3.0</text>
+<circle cx="920.1960784313726" cy="344" r="4.5" fill="#7c3aed" stroke="#fff" stroke-width="1.5"/>
+<text x="920.1960784313726" y="305" text-anchor="middle" font-size="10" fill="#7c3aed">v0.4.0</text>
+<text x="178" y="434" text-anchor="end" fill="#111">Stelli (private beta)</text><line x1="190" x2="950" y1="430" y2="430" stroke="#e5e7eb"/>
+<rect x="204.90196078431373" y="423" width="596.0784313725491" height="14" rx="3" fill="#d1d5db"/>
+<rect x="800.9803921568628" y="428" width="119.21568627450984" height="4" rx="2" fill="#ddd6fe"/>
+<rect x="203.90196078431373" y="440" width="2" height="7" fill="#374151"/>
+<rect x="218.80392156862746" y="440" width="2" height="7" fill="#374151"/>
+<rect x="233.70588235294116" y="440" width="2" height="7" fill="#374151"/>
+<rect x="248.60784313725492" y="440" width="2" height="7" fill="#374151"/>
+<rect x="293.3137254901961" y="440" width="2" height="7" fill="#374151"/>
+<rect x="308.21568627450984" y="440" width="2" height="7" fill="#374151"/>
+<rect x="323.11764705882354" y="440" width="2" height="7" fill="#374151"/>
+<rect x="338.01960784313724" y="440" width="2" height="7" fill="#374151"/>
+<rect x="352.921568627451" y="440" width="2" height="7" fill="#374151"/>
+<rect x="397.62745098039215" y="440" width="2" height="7" fill="#374151"/>
+<rect x="412.52941176470586" y="440" width="2" height="7" fill="#374151"/>
+<rect x="427.4313725490196" y="440" width="2" height="7" fill="#374151"/>
+<rect x="516.843137254902" y="440" width="2" height="7" fill="#374151"/>
+<rect x="561.5490196078431" y="440" width="2" height="7" fill="#374151"/>
+<rect x="606.2549019607843" y="440" width="2" height="7" fill="#374151"/>
+<rect x="636.0588235294117" y="440" width="2" height="7" fill="#374151"/>
+<rect x="725.4705882352941" y="440" width="2" height="7" fill="#374151"/>
+<rect x="740.3725490196078" y="440" width="2" height="7" fill="#374151"/>
+<rect x="755.2745098039215" y="440" width="2" height="7" fill="#374151"/>
+<rect x="770.1764705882352" y="440" width="2" height="7" fill="#374151"/>
+<rect x="785.0784313725491" y="440" width="2" height="7" fill="#374151"/>
+<rect x="799.9803921568628" y="440" width="2" height="7" fill="#374151"/>
+<rect x="814.8823529411765" y="440" width="2" height="7" fill="#374151"/>
+<rect x="829.7843137254902" y="440" width="2" height="7" fill="#374151"/>
+<rect x="844.686274509804" y="440" width="2" height="7" fill="#374151"/>
+<rect x="859.5882352941177" y="440" width="2" height="7" fill="#374151"/>
+<rect x="874.4901960784314" y="440" width="2" height="7" fill="#374151"/>
+<rect x="889.3921568627451" y="440" width="2" height="7" fill="#374151"/>
+<rect x="904.2941176470588" y="440" width="2" height="7" fill="#374151"/>
+<rect x="919.1960784313726" y="440" width="2" height="7" fill="#374151"/>
+<rect x="934.0980392156863" y="440" width="2" height="7" fill="#374151"/>
+<circle cx="204.90196078431373" cy="430" r="6" fill="#6b7280"/>
+<path d="M204.90196078431373 422L211.90196078431373 436L197.90196078431373 436Z" fill="#b45309"/>
+<text x="204.90196078431373" y="461" text-anchor="middle" font-size="11" fill="#333">Start + First result Sep 29</text>
+<rect x="795.9803921568628" y="425" width="10" height="10" fill="#fff" stroke="#1d4ed8" stroke-width="2.5"/>
+<text x="800.9803921568628" y="417" text-anchor="middle" font-size="11" fill="#333">First beta Nov 8</text>
+<circle cx="920.1960784313726" cy="430" r="4.5" fill="#7c3aed" stroke="#fff" stroke-width="1.5"/>
+<text x="928.1960784313726" y="461" text-anchor="end" font-size="11" fill="#7c3aed">Beta 16e Nov 16</text>
+<circle cx="190" cy="508" r="6" fill="#6b7280"/><text x="204" y="512" fill="#333" font-size="12">Start</text>
+<path d="M325 500L332 514L318 514Z" fill="#b45309"/><text x="339" y="512" fill="#333" font-size="12">First result</text>
+<path d="M460 500L468 508L460 516L452 508Z" fill="#0f766e"/><text x="474" y="512" fill="#333" font-size="12">Verified</text>
+<rect x="589" y="502" width="12" height="12" fill="#1d4ed8"/><text x="609" y="512" fill="#333" font-size="12">Public</text>
+<rect x="725" y="503" width="10" height="10" fill="#fff" stroke="#1d4ed8" stroke-width="2.5"/><text x="744" y="512" fill="#333" font-size="12">First beta (private)</text>
+<circle cx="865" cy="508" r="4.5" fill="#7c3aed" stroke="#fff" stroke-width="1.5"/><text x="879" y="512" fill="#333" font-size="12">Later release</text>
+<rect x="190" y="522" width="22" height="10" rx="3" fill="#fcd34d"/><text x="218" y="531" font-size="12" fill="#333">Start to first result</text>
+<rect x="340" y="522" width="22" height="10" rx="3" fill="#5eead4"/><text x="368" y="531" font-size="12" fill="#333">First result to verified</text>
+<rect x="510" y="522" width="22" height="10" rx="3" fill="#93c5fd"/><text x="538" y="531" font-size="12" fill="#333">Verified to public</text>
+<rect x="660" y="522" width="22" height="10" rx="3" fill="#d1d5db"/><text x="688" y="531" font-size="12" fill="#333">To first beta</text>
+<rect x="780" y="522" width="22" height="10" rx="3" fill="#ddd6fe"/><text x="808" y="531" font-size="12" fill="#333">Release span</text>
+<text x="190" y="554" fill="#555" font-size="12">Bars span the time between dated marks. Small ticks under each bar are the days with recorded work; purple dots are later releases.</text>
 </svg>
