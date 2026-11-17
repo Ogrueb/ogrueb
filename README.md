@@ -8,9 +8,9 @@ Everything below was built solo with LLM coding tools. My work is the planning, 
 
 ## Project timelines
 
-![Milestone timeline for four projects, September 28 to November 10, 2026: start, first result, verified and public dates, with bars for elapsed time and ticks for days with recorded work](timeline/project-timeline.svg)
+![Milestone timeline for five projects, September 28 to November 17, 2026: start, first result, verified and public dates, a marker for every release after the first, with bars for elapsed time and ticks for days with recorded work](timeline/project-timeline.svg)
 
-Bars span the time between dated milestones, not hours worked; the ticks mark the days with recorded work.
+Bars span the time between dated milestones, not hours worked; the ticks mark the days with recorded work, and purple dots mark each release after the first (Stelli, a private job-search app, by day of its beta builds).
 
 ## Projects
 
